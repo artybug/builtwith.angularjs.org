@@ -2,6 +2,30 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "City By Weather",
+    "thumb": "citybyweather/thumb.png",
+    "desc": "Reverse Weather Forecast. Choose daily high and low temperatures and get the list of cities matching your desired forecast.",
+    "url": "http://citybyweather.com",
+    "submitter": "artybug",
+    "submissionDate": "2015-06-13",
+    "tags": [
+      "Production",
+      "Productivity",
+      "Weather",
+      "Forecast",
+      "Travel planning",
+      "Bootstrap",
+      "jQueryUI",
+      "Slider",
+      "JSON",
+      "Custom directive",
+      "Single page application",
+      "JQuery",
+      "Laravel",
+      "HTML5"     
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
